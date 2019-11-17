@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"newFor:" : "ct 11/17/2019 15:42" },
+	"instance" : {
+		"appearanceStepTime" : "ct 11/17/2019 16:35",
+		"collectDamages" : "ct 11/17/2019 17:58",
+		"createSnowflake" : "ct 11/17/2019 15:38",
+		"delete" : "ct 11/17/2019 15:50",
+		"drawOn:" : "ct 11/17/2019 16:02",
+		"initialize" : "ct 11/17/2019 15:46",
+		"numberOfSnowflakes" : "ct 11/17/2019 15:22",
+		"owner:" : "ct 11/17/2019 15:29",
+		"setUp" : "ct 11/17/2019 15:35",
+		"snowflakesDo:" : "ct 11/17/2019 15:24",
+		"startStepping" : "ct 11/17/2019 16:34",
+		"step" : "ct 11/17/2019 15:26",
+		"stepAppearance" : "ct 11/17/2019 16:14",
+		"stepAppearanceAt:" : "ct 11/17/2019 16:14",
+		"stepTime" : "ct 11/17/2019 17:05",
+		"stopStepping" : "ct 11/17/2019 16:43" } }

@@ -1,0 +1,4 @@
+accessing
+numberOfSnowflakes
+
+	^ 50

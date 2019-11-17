@@ -1,0 +1,14 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blizzard" ],
+	"name" : "XmasDecorations",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

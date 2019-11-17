@@ -1,0 +1,4 @@
+accessing
+baseExtent
+
+	^ baseExtent

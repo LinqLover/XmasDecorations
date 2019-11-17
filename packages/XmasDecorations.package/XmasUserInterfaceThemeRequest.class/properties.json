@@ -1,0 +1,14 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XmasUserInterfaceThemeRequest",
+	"pools" : [
+		 ],
+	"super" : "UserInterfaceThemeRequest",
+	"type" : "normal" }

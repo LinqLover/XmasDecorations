@@ -1,0 +1,22 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RandomGenerator" ],
+	"commentStamp" : "ct 11/17/2019 12:21",
+	"instvars" : [
+		"speed",
+		"opacity",
+		"horizontalSign",
+		"scale",
+		"counter",
+		"floatExtent",
+		"floatCenter",
+		"baseColor",
+		"baseExtent" ],
+	"name" : "XmasSnowflake",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

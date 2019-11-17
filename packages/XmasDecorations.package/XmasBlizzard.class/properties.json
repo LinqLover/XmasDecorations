@@ -1,0 +1,14 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snowflakes" ],
+	"name" : "XmasBlizzard",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

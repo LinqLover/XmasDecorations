@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"current" : "ct 11/17/2019 20:36",
+		"current:" : "ct 11/17/2019 20:36",
+		"initialize" : "ct 11/17/2019 20:38",
+		"reset" : "ct 11/17/2019 20:38" },
+	"instance" : {
+		"blizzard" : "ct 11/17/2019 15:40",
+		"blizzard:" : "ct 11/17/2019 15:40",
+		"collectDamages" : "ct 11/17/2019 17:58",
+		"drawWorldDecorationsOn:" : "ct 11/17/2019 15:20",
+		"initialize" : "ct 11/17/2019 20:37",
+		"resources" : "ct 11/17/2019 21:17" } }

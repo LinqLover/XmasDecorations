@@ -1,0 +1,4 @@
+accessing
+horizontalSign
+
+	^ horizontalSign

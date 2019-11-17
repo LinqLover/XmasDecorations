@@ -1,0 +1,4 @@
+accessing
+opacity
+
+	^ opacity

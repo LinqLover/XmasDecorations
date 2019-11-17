@@ -1,0 +1,2 @@
+*XmasDecorations
+drawXmasDecorationsOn: aCanvas

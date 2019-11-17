@@ -1,0 +1,15 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		"uniqueInstance",
+		"cache" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XmasResources",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
