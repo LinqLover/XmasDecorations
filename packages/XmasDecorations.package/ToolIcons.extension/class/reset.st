@@ -1,4 +1,0 @@
-*XmasDecorations
-reset
-
-	Icons := nil
