@@ -1,0 +1,4 @@
+*XmasDecorations
+reset
+
+	Icons := nil
