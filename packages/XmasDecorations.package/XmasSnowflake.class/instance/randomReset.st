@@ -10,4 +10,4 @@ randomReset
 			nextBetween: self owner left - self placementOffset x
 			and: self owner right + self placementOffset x)
 		@ self placementOffset y negated.
-	self speed: (RandomGenerator nextBetween: 15 and: 65).
+	self speed: (RandomGenerator nextBetween: 30 and: 150).
