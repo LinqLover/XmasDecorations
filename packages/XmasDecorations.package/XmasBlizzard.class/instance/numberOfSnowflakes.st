@@ -1,4 +1,4 @@
 accessing
 numberOfSnowflakes
 
-	^ 50
+	^ 150

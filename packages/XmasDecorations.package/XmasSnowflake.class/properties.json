@@ -14,7 +14,8 @@
 		"floatExtent",
 		"floatCenter",
 		"baseColor",
-		"baseExtent" ],
+		"baseExtent",
+		"savedPatch" ],
 	"name" : "XmasSnowflake",
 	"pools" : [
 		 ],
