@@ -1,4 +1,4 @@
 *XmasDecorations
 xmasListMorphFill
 
-	^ self xmasResources textureTrees
+	^ self xmasResources at: (self darkenIfNeeded: #textureTrees)

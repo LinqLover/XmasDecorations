@@ -1,4 +1,4 @@
 *XmasDecorations
 xmasTextMorphFill
 
-	^ self xmasResources textureSnow
+	^ self xmasResources at: (self darkenIfNeeded: #textureSnow)

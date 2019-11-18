@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"xmasListMorphFill" : "ct 11/17/2019 20:44",
-		"xmasMenuMorphFill" : "ct 11/17/2019 22:34",
-		"xmasTextMorphFill" : "ct 11/17/2019 21:46" } }
+		"darkenIfNeeded:" : "ct 11/18/2019 00:40",
+		"isDarkTheme" : "ct 11/18/2019 00:40",
+		"xmasListMorphFill" : "ct 11/18/2019 00:55",
+		"xmasMenuMorphFill" : "ct 11/18/2019 00:55",
+		"xmasTextMorphFill" : "ct 11/18/2019 00:54" } }

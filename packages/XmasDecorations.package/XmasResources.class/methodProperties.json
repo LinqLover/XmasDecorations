@@ -11,8 +11,12 @@
 		"instance" : "ct 11/17/2019 21:14",
 		"reset" : "ct 11/17/2019 21:18" },
 	"instance" : {
+		"darken:" : "ct 11/18/2019 00:54",
+		"doesNotUnderstand:" : "ct 11/18/2019 00:52",
 		"iconArrowDown" : "ct 11/17/2019 23:51",
 		"iconArrowUp" : "ct 11/17/2019 23:43",
+		"isDarkSelector:" : "ct 11/18/2019 00:43",
+		"respondsTo:" : "ct 11/18/2019 00:43",
 		"scriptIconHaloDebug" : "ct 11/18/2019 00:06",
 		"textureSnow" : "ct 11/17/2019 22:46",
 		"textureTrees" : "ct 11/17/2019 22:47" } }
