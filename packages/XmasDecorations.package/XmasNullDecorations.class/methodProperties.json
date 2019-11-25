@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"initialize" : "ct 11/25/2019 16:37",
+		"new" : "ct 11/25/2019 16:37" },
+	"instance" : {
+		"collectDamages" : "ct 11/25/2019 16:34",
+		"doesNotUnderstand:" : "ct 11/25/2019 16:35",
+		"resources" : "ct 11/25/2019 16:48",
+		"topMostMorphs" : "ct 11/25/2019 16:34" } }

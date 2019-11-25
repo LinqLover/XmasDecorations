@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"IsInstalled" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"blizzard" ],
-	"name" : "XmasDecorations",
+		 ],
+	"name" : "XmasNullResources",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "XmasResources",
 	"type" : "normal" }
