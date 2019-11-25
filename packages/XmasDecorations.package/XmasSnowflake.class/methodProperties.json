@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"applyUserInterfaceTheme" : "ct 11/25/2019 15:29",
 		"initialize" : "ct 11/17/2019 14:24",
 		"newRandomFor:" : "ct 11/17/2019 15:38" },
 	"instance" : {
@@ -17,12 +18,14 @@
 		"floatExtent:" : "ct 11/17/2019 14:59",
 		"horizontalSign" : "ct 11/17/2019 14:44",
 		"horizontalSign:" : "ct 11/17/2019 14:44",
-		"initialize" : "ct 11/17/2019 16:39",
+		"initialize" : "ct 11/25/2019 15:17",
+		"initializeAppearance" : "ct 11/25/2019 15:17",
 		"opacity" : "ct 11/17/2019 14:45",
 		"opacity:" : "ct 11/17/2019 16:19",
 		"owner:" : "ct 11/17/2019 14:51",
 		"placementOffset" : "ct 11/17/2019 14:39",
 		"position:" : "ct 11/17/2019 17:52",
+		"privateApplyUserInterfaceTheme" : "ct 11/25/2019 15:30",
 		"randomInitialize" : "ct 11/17/2019 16:22",
 		"randomReset" : "ct 11/18/2019 01:34",
 		"restoreSavedPatchOn:" : "ct 11/18/2019 01:17",
