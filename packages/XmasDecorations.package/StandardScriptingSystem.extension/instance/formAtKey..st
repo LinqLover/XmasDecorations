@@ -3,7 +3,7 @@ formAtKey: aString
 	"Answer the form saved under the given key"
 
 	self xmasResources
-		at: ('scriptIcon' , (aString copyWithoutAll: '-') capitalized) asSymbol
+		scriptIconAt: aString
 		ifPresent: [:form | ^ form].
 	
 	Symbol hasInterned: aString ifTrue:

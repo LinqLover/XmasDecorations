@@ -2,6 +2,6 @@
 iconNamed: aSymbol
 
 	self xmasResources
-		at: ('icon' , aSymbol capitalized) asSymbol
+		iconAt: aSymbol
 		ifPresent: [:form | ^ form copy].
 	^ self icons at: aSymbol ifAbsentPut: [self perform: aSymbol]
