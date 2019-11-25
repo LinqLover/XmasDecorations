@@ -1,4 +1,4 @@
-nil
+initialize-release
 initialize
 
 	super initialize.

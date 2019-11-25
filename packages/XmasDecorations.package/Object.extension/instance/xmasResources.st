@@ -1,4 +1,4 @@
 *XmasDecorations
 xmasResources
 
-	^ XmasDecorations current resources
+	^ self xmasDecorations resources

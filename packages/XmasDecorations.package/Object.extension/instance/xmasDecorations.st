@@ -1,0 +1,4 @@
+*XmasDecorations
+xmasDecorations
+
+	^ XmasDecorations current
