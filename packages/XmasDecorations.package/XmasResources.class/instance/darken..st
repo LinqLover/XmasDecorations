@@ -1,4 +1,4 @@
-as yet unclassified
+transformations
 darken: aForm
 
 	(aForm isKindOf: InfiniteForm)
