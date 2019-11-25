@@ -3,9 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
+		"Current",
 		"IsInstalled" ],
 	"commentStamp" : "",
 	"instvars" : [
+		"resources",
 		"blizzard" ],
 	"name" : "XmasDecorations",
 	"pools" : [
