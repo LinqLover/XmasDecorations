@@ -1,13 +1,13 @@
 stepping
 step
 
-	| date |
-	date := DateAndTime now.
-	date asDate = latestDate
+	| isChristmasTime |
+	isChristmasTime := DateAndTime now isChristmasTime.
+	isChristmasTime = latestIsChristmasTime
 		ifTrue: [^ self].
-	(self isInstalled xor: date isChristmasTime)
+	(self isInstalled xor: isChristmasTime)
 		ifTrue: [
 			self isInstalled
 				ifFalse: [self install]
 				ifTrue: [self uninstall]].
-	latestDate := date.
+	latestIsChristmasTime := isChristmasTime.

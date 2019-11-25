@@ -1,7 +1,7 @@
 {
 	"category" : "XmasDecorations",
 	"classinstvars" : [
-		"latestDate" ],
+		"latestIsChristmasTime" ],
 	"classvars" : [
 		"Current",
 		"IsInstalled" ],
