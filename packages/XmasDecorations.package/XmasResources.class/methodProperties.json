@@ -14,6 +14,7 @@
 		"scriptIconAt:ifPresent:" : "ct 11/25/2019 15:34" },
 	"instance" : {
 		"cursorNormal" : "ct 11/25/2019 16:22",
+		"darkTextureSnow" : "ct 11/25/2019 23:24",
 		"darken:" : "ct 11/18/2019 00:54",
 		"doesNotUnderstand:" : "ct 11/18/2019 00:52",
 		"iconArrowDown" : "ct 11/17/2019 23:51",
@@ -25,4 +26,5 @@
 		"soundHohoho" : "ct 11/25/2019 17:11",
 		"soundHohohoSamples" : "ct 11/25/2019 17:10",
 		"textureSnow" : "ct 11/25/2019 23:15",
+		"textureStars" : "ct 11/25/2019 23:26",
 		"textureTrees" : "ct 11/17/2019 22:47" } }

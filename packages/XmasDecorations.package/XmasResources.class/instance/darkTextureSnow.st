@@ -1,0 +1,4 @@
+forwarding
+darkTextureSnow
+
+	^ self textureStars
