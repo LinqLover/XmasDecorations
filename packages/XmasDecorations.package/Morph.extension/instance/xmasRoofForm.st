@@ -6,6 +6,6 @@ xmasRoofForm
 	xmasRoofForm := self valueOfProperty: #xmasRoofForm.
 	(xmasRoofForm isNil or: [xmasRoofForm extent ~= extent])
 		ifTrue: [
-			xmasRoofForm := FormXmasRoof scaledToExactSize: extent.
+			xmasRoofForm := self userInterfaceTheme xmasRoofForm scaledToExactSize: extent.
 			self setProperty: #xmasRoofForm toValue: xmasRoofForm].
 	^ xmasRoofForm
