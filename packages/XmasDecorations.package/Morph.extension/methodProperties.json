@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawXmasDecorationsOn:" : "ct 11/17/2019 15:20" } }
+		"drawXmasDecorationsOn:" : "ct 11/17/2019 15:20",
+		"xmasDrawRoofOn:" : "ct 11/26/2019 22:38",
+		"xmasRoofForm" : "ct 11/26/2019 22:39",
+		"xmasShouldCoverRoof" : "ct 11/26/2019 22:35" } }
