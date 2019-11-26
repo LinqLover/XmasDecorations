@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"closeBoxImage" : "ct 11/26/2019 14:12",
+		"collapseBoxImage" : "ct 11/26/2019 14:12",
+		"expandBoxImage" : "ct 11/26/2019 14:13",
+		"menuBoxImage" : "ct 11/26/2019 14:13" },
+	"instance" : {
+		"createBox:" : "ct 8/12/2019 22:05",
+		"drawOn:" : "ct 11/26/2019 19:33",
+		"xmasRoofBounds" : "ct 11/26/2019 19:19",
+		"xmasRoofForm" : "ct 11/26/2019 19:20",
+		"xmasShouldCoverRoof" : "ct 11/26/2019 19:33" } }
