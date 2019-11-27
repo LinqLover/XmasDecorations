@@ -2,4 +2,5 @@ stepping
 reachedTarget
 
 	hasReachedTarget := true.
-	targetReachedBlock cull: self.
+	targetReachedBlock ifNotNil: [:block |
+		block cull: self].
