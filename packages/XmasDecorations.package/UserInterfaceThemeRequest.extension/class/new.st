@@ -1,7 +1,7 @@
 *XmasDecorations-override
 new
 
-	XmasDecorations isInstalled
+	self xmasDecorations isActiveDecorations
 		ifFalse: [^ super new].
 	self = UserInterfaceThemeRequest
 		ifFalse: [^ super new].

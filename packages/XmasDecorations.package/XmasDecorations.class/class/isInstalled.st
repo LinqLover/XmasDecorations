@@ -1,4 +1,4 @@
 accessing
 isInstalled
 
-	^ IsInstalled
+	^ self current isActiveDecorations
