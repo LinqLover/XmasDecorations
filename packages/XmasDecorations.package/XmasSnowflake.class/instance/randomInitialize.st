@@ -1,10 +1,12 @@
 initialization
 randomInitialize
 
-	self randomReset.
-	
-	self floatCenter: self floatCenter x
-		@ ((RandomGenerator
-			nextBetween: self owner top
-			and: self owner bottom)
-				- self owner height  - self placementOffset y).
+	self
+		baseExtent: (RandomGenerator nextBetween: 35 and: 50) asPoint;
+		floatCenter: (RandomGenerator
+			nextBetween: self owner left - self placementOffset x
+			and: self owner right + self placementOffset x)
+				@ self placementOffset y negated;
+		opacity: (RandomGenerator nextBetween: 0.03 and: 0.37);
+		horizontalSign: (RandomGenerator next - 0.5) sign;
+		speed: (RandomGenerator nextBetween: 30 and: 150).

@@ -2,4 +2,4 @@ stepping
 stopStepping
 
 	super stopStepping.
-	self stopSteppingSelector: #stepAppearanceAt:.
+	self stopAppearanceStepping.

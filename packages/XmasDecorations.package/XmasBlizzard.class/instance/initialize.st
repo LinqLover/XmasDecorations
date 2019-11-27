@@ -2,4 +2,5 @@ initialize-release
 initialize
 
 	super initialize.
-	snowflakes := OrderedCollection new.
+	intensityCounter := XmasCounter forValue: 0.
+	random := Random new.

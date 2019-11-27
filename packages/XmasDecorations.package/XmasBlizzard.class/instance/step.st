@@ -1,4 +1,4 @@
 stepping
 step
 
-	self snowflakesDo: #step
+	self submorphsDo: #step.

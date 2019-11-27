@@ -1,4 +1,4 @@
 initialize-release
 createSnowflake
 
-	^ XmasSnowflake newRandomFor: self owner
+	^ XmasSnowflake newRandomFor: self

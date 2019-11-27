@@ -1,4 +1,4 @@
 drawing
 collectDamages
 
-	^ snowflakes collect: #bounds
+	^ self submorphs collect: #bounds

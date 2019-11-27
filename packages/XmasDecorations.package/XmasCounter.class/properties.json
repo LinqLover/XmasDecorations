@@ -1,0 +1,19 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"target",
+		"speed",
+		"hasReachedTarget",
+		"deltaSign",
+		"targetReachedBlock" ],
+	"name" : "XmasCounter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

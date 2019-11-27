@@ -1,4 +1,0 @@
-accessing
-numberOfSnowflakes
-
-	^ 150

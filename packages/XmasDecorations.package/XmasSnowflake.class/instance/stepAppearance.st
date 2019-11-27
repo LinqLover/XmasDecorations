@@ -12,3 +12,4 @@ stepAppearance
 		with: Color random)."
 	
 	"self baseColor: Color random"
+	"self baseColor: (Color h: (counter * 100) sin s: 0.7 v: 0.95)."

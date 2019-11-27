@@ -2,6 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self owner: ActiveWorld.
+	self owner: self currentWorld.
 	self initializeAppearance.
 	counter := 0.
