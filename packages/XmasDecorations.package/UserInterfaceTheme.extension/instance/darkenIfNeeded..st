@@ -3,4 +3,4 @@ darkenIfNeeded: aSymbol
 
 	self isDarkTheme
 		ifFalse: [^ aSymbol].
-	^ ('dark' , aSymbol capitalized) asSymbol
+	^ self xmasResources darkenSelector: aSymbol
