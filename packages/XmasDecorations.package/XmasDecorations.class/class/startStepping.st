@@ -6,4 +6,4 @@ startStepping
 		at: Time millisecondClockValue
 		selector: #step
 		arguments: nil
-		stepTime: 12 minutes.
+		stepTime: 12 minutes asMilliSeconds.
