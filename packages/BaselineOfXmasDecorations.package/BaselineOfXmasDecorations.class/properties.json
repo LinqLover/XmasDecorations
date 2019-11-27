@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfXmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfXmasDecorations",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
