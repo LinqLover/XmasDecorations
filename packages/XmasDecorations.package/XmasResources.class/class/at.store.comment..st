@@ -17,4 +17,4 @@ at: aSymbol store: anObject comment: aComment
 				crtab; nextPut: $^;
 				nextPutAll: storeString])
 		classified: #'generated'.
-	self cache removeKey: aSymbol ifAbsent: [].
+	self removeFromCache: aSymbol.
