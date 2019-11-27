@@ -1,7 +1,6 @@
 {
 	"class" : {
-		"initialize" : "ct 11/25/2019 16:37",
-		"new" : "ct 11/25/2019 16:37" },
+		"new" : "ct 11/27/2019 12:47" },
 	"instance" : {
 		"collectDamages" : "ct 11/25/2019 16:34",
 		"doesNotUnderstand:" : "ct 11/25/2019 16:35",

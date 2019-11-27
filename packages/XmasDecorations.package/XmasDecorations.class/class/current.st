@@ -1,4 +1,4 @@
 accessing
 current
 
-	^ Current
+	^ Current ifNil: [XmasNullDecorations new]

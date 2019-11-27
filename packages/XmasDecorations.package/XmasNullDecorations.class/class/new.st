@@ -1,4 +1,5 @@
-as yet unclassified
+instance creation
 new
 
-	^ Null
+	^ Null ifNil: [Null :=
+		super new]
