@@ -6,4 +6,4 @@ uninstall
 	
 	self refreshUi.
 	
-	self blizzard abandon.
+	self blizzard ifNotNil: #abandon.
