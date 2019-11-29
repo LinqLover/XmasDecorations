@@ -1,6 +1,6 @@
 initialize-release
 abandon
 
-	self removeAllMorphs.
 	self removeAlarms.
+	self removeAllMorphs.
 	^ super abandon
