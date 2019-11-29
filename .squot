@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'packages\/BaselineOfXmasDecorations.package' : #SquotCypressCodeSerializer,
 	'packages\/XmasDecorations.package' : #SquotCypressCodeSerializer,
-	'packages\/BaselineOfXmasDecorations.package' : #SquotCypressCodeSerializer
+	'packages\/XmasDecorationsTests.package' : #SquotCypressCodeSerializer
 }

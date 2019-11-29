@@ -1,0 +1,4 @@
+testing
+testWorldHealth
+
+	self assertWorldHealth.

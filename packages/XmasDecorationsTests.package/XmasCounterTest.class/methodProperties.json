@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "ct 11/29/2019 13:20",
+		"testCountFloats" : "ct 11/29/2019 13:25",
+		"testCountIntegers" : "ct 11/29/2019 13:26" } }
