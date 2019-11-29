@@ -2,7 +2,7 @@
 displayWorld: aWorld submorphs: submorphs
 	"Update this world's display."
 
-	| deferredUpdateMode handsToDraw allDamage worldDamageRects allMorphDamageRects allMorphsToDraw topMorphsToDraw |
+	| deferredUpdateMode handsToDraw allDamage worldDamageRects topMorphDamageRects handDamageRects allMorphsToDraw topMorphsToDraw |
 
 	aWorld fullBounds. "send #ownerChanged to submorphs."
 	submorphs do: [:m | m fullBounds].  "force re-layout if needed"
@@ -14,11 +14,13 @@ displayWorld: aWorld submorphs: submorphs
 	worldDamageRects := self drawWorld: aWorld submorphs: submorphs invalidAreasOn: self assuredCanvas.  "repair world's damage on canvas"
 	"self handsDo:[:h| h noticeDamageRects: worldDamageRects]."
 	topMorphsToDraw := self selectTopMorphsToDrawForDamage: worldDamageRects.
-	handsToDraw := self selectHandsToDrawForDamage: worldDamageRects.
+	topMorphDamageRects := topMorphsToDraw collect: [:m | m savePatchFrom: canvas].
+	allDamage := worldDamageRects , topMorphDamageRects.
+	handsToDraw := self selectHandsToDrawForDamage: allDamage.
+	handDamageRects := handsToDraw collect: [:h | h savePatchFrom: canvas].
+	allDamage := allDamage, handDamageRects.
 	allMorphsToDraw := handsToDraw, topMorphsToDraw.
-	allMorphDamageRects := allMorphsToDraw collect: [:m | m savePatchFrom: canvas].
-	allDamage := worldDamageRects, allMorphDamageRects.
-
+	
 	allMorphsToDraw reverseDo: [:m | canvas fullDrawMorph: m].
 
 	"*make this true to flash damaged areas for testing*"
