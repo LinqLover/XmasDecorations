@@ -1,4 +1,4 @@
-transformations
+testing
 isBackgroundSelector: aSymbol
 
 	^ aSymbol isUnary and: [

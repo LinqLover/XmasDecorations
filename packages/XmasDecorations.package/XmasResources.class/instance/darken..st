@@ -1,4 +1,4 @@
-transformations
+tools
 darken: aForm
 
 	(aForm isKindOf: InfiniteForm)

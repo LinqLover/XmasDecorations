@@ -16,5 +16,5 @@ at: aSymbol store: anObject comment: aComment
 				cr;
 				crtab; nextPut: $^;
 				nextPutAll: storeString])
-		classified: #'generated'.
+		classified: #'resources'.
 	self removeFromCache: aSymbol.

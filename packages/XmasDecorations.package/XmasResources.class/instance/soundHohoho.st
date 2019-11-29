@@ -1,7 +1,7 @@
-generated
+resources - sounds
 soundHohoho
 
-	"Artist: Rockin Burgers N Dogs Food Truck. URL: https://www.youtube.com/watch?v=felgjUhKm_A. Edited."
+	<xmasResourceBy: 'Rockin Burgers N Dogs Food Truck' url: 'https://www.youtube.com/watch?v=felgjUhKm_A' comment: 'edited'>
 	^ SampledSound
 		samples: (SoundBuffer fromByteArray: (Base64MimeConverter mimeDecodeToBytes: self soundHohohoSamples readStream) contents)
 		samplingRate: 48000

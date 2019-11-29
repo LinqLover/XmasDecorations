@@ -1,7 +1,6 @@
-generated
+resources - textures
 textureTrees
-	<generated>
-	"Artist: Eva Krebs"
+	<xmasResourceBy: 'Eva Krebs'>
 
 	^	(InfiniteForm with: ((ColorForm
 		extent: 30@30

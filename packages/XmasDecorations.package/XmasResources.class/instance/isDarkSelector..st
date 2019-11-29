@@ -1,4 +1,4 @@
-transformations
+testing
 isDarkSelector: aSymbol
 
 	^ aSymbol isUnary and: [

@@ -1,8 +1,6 @@
-generated
+resources - icons
 scriptIconHaloView
-	<generated>
-	"Artist: Eva Krebs"
-
+	<xmasResourceBy: 'Eva Krebs'>
 	^	((ColorForm
 		extent: 16@16
 		depth: 8

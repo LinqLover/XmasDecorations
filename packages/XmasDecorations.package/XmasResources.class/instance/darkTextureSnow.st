@@ -1,4 +1,4 @@
-forwarding
+resources - textures
 darkTextureSnow
 
 	^ self textureStars

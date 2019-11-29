@@ -1,8 +1,6 @@
-generated
+resources - icons
 scriptIconHaloGrab
-	<generated>
-	"A Gingerbread House. Artist: Christoph Thiede"
-
+	<xmasResourceBy: 'Christoph Thiede' title: 'A Gingerbread House'>
 	^	(Form
 		extent: 256@256
 		depth: 32

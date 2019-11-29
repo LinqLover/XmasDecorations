@@ -1,7 +1,6 @@
-generated
+resources - textures
 textureSnow
-	<generated>
-	"Artist: https://www.desktopbackground.org/wallpaper/white-backgrounds-306z-backgrounds-amazing-full-size-attachment-1043698. Edited"
+	<xmasResourceBy: 'AZWallpapers' url: 'https://www.desktopbackground.org/wallpaper/white-backgrounds-306z-backgrounds-amazing-full-size-attachment-1043698'>
 
 	^	(InfiniteForm with: (Form
 		extent: 469@352

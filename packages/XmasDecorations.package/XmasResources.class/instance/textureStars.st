@@ -1,6 +1,6 @@
-generated
+resources - textures
 textureStars
-	<generated>
+	<xmasResource>
 
 	^	(InfiniteForm with: (Form
 		extent: 420@416

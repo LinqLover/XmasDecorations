@@ -1,4 +1,4 @@
-generated
+resources - sounds
 soundHohohoSamples
 	<generated>
 
