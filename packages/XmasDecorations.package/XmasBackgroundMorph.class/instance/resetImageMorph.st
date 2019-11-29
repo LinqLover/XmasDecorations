@@ -1,5 +1,5 @@
 private
 resetImageMorph
 
-	scalingProcess terminate.
+	scalingProcess ifNotNil: #terminate.
 	self basicResetImageMorph.
