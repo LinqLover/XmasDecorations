@@ -1,4 +1,7 @@
 initialize-release
 addSnowflake
 
-	self addMorph: self createSnowflake.
+	| flake |
+	flake := self createSnowflake.
+	self addMorph: flake.
+	flake randomInitialize.

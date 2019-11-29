@@ -1,8 +1,7 @@
 {
 	"class" : {
 		"applyUserInterfaceTheme" : "ct 11/25/2019 15:29",
-		"initialize" : "ct 11/17/2019 14:24",
-		"newRandomFor:" : "ct 11/17/2019 15:38" },
+		"initialize" : "ct 11/17/2019 14:24" },
 	"instance" : {
 		"baseColor" : "ct 11/17/2019 16:08",
 		"baseColor:" : "ct 11/17/2019 16:23",
@@ -19,21 +18,21 @@
 		"floatExtent:" : "ct 11/17/2019 14:59",
 		"horizontalSign" : "ct 11/17/2019 14:44",
 		"horizontalSign:" : "ct 11/17/2019 14:44",
-		"initialize" : "ct 11/26/2019 09:22",
+		"initialize" : "ct 11/29/2019 12:04",
 		"initializeAppearance" : "ct 11/25/2019 15:17",
+		"intoWorld:" : "ct 11/28/2019 16:08",
 		"isHighPerformance" : "ct 11/27/2019 09:19",
 		"opacity" : "ct 11/17/2019 14:45",
 		"opacity:" : "ct 11/17/2019 16:19",
+		"outOfWorld:" : "ct 11/29/2019 11:09",
 		"owner:" : "ct 11/17/2019 14:51",
 		"placementOffset" : "ct 11/17/2019 14:39",
-		"position:" : "ct 11/17/2019 17:52",
 		"privateApplyUserInterfaceTheme" : "ct 11/25/2019 15:30",
 		"randomInitialize" : "ct 11/27/2019 11:23",
-		"restoreSavedPatchOn:" : "ct 11/18/2019 01:17",
-		"savePatchFrom:" : "ct 11/18/2019 01:30",
 		"scale" : "ct 11/17/2019 14:46",
 		"scale:" : "ct 11/17/2019 14:58",
 		"speed" : "ct 11/17/2019 14:46",
 		"speed:" : "ct 11/17/2019 14:46",
 		"step" : "ct 11/27/2019 09:12",
-		"stepAppearance" : "ct 11/26/2019 08:48" } }
+		"stepAppearance" : "ct 11/26/2019 08:48",
+		"wantsSteps" : "ct 11/29/2019 11:09" } }

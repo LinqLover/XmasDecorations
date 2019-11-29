@@ -2,6 +2,7 @@
 	"category" : "XmasDecorations",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TXmasTopMorph classTrait",
 	"classvars" : [
 		"RandomGenerator" ],
 	"commentStamp" : "ct 11/17/2019 12:21",
@@ -20,4 +21,5 @@
 	"pools" : [
 		 ],
 	"super" : "EllipseMorph",
+	"traitcomposition" : "TXmasTopMorph",
 	"type" : "normal" }

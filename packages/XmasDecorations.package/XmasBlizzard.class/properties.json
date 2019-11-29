@@ -8,7 +8,8 @@
 	"instvars" : [
 		"random",
 		"intensityCounter",
-		"dbg_nextInsensityAlarmTime" ],
+		"dbg_nextInsensityAlarmTime",
+		"hasChanged" ],
 	"name" : "XmasBlizzard",
 	"pools" : [
 		 ],
