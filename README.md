@@ -1,4 +1,4 @@
-# XmasDecorations
+# XmasDecorations [![Build Status](https://travis-ci.com/LinqLover/XmasDecorations.svg?branch=master)](https://travis-ci.com/LinqLover/XmasDecorations)
 
 Installation:
 1. Ensure Metacello is installed (`Installer ensureRecentMetacello`).
