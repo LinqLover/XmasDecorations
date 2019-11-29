@@ -1,12 +1,13 @@
 accessing
 backgroundImageImports
 
-	| imports |
+	| imports selectors |
 	imports := Imports new.
-	(self allSelectorsBelow: thisContext receiver superclass)
-		select: [:selector |
-			self instance isBackgroundSelector: selector]
-		thenDo: [:selector | imports
-			importImage: (self perform: selector)
-			named: selector].
+	selectors := self backgroundImageSelectors.
+	selectors
+		do: [:selector |
+			imports
+				importImage: (self perform: selector)
+				named: selector]
+		displayingProgress: 'Downloading background images ...'.
 	^ imports
