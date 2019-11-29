@@ -1,5 +1,5 @@
 assertions
-checkInstalled
+checkDecorated
 
 	| widget |
 	widget := PluggableTextMorph new.

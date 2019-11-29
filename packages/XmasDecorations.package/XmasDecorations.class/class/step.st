@@ -5,9 +5,9 @@ step
 	isChristmasTime := DateAndTime now isChristmasTime.
 	isChristmasTime = latestIsChristmasTime
 		ifTrue: [^ self].
-	(self isInstalled xor: isChristmasTime)
+	(self isActive xor: isChristmasTime)
 		ifTrue: [
 			self isInstalled
-				ifFalse: [self install]
-				ifTrue: [self uninstall]].
+				ifFalse: [self decorate]
+				ifTrue: [self undecorate]].
 	latestIsChristmasTime := isChristmasTime.

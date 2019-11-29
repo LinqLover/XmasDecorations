@@ -1,4 +1,4 @@
 installation
 install
 
-	self new install.
+	XmasResources install.

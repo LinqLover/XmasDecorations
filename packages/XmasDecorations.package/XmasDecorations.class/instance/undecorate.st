@@ -1,5 +1,5 @@
 installation
-uninstall
+undecorate
 
 	Beeper clearDefault.
 	self class current: nil.
