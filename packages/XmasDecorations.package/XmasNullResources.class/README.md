@@ -1,0 +1,1 @@
+I am a null object for XmasResources. I am the present resource when decorations are turned off.

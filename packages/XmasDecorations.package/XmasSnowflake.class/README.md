@@ -1,1 +1,1 @@
-Inspired by https://www.kirupa.com/html5/the_falling_snow_effect.htm
+I am a falling snowflake. I am able of trundling down the screen and varying in terms of size and scale. My behavior is partially adapted from kirupa's blog post "The Falling Snow Effect" (https://www.kirupa.com/html5/the_falling_snow_effect.htm). I use TXmasTopMorph for being drawn above all other morphs in an efficient way.

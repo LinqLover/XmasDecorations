@@ -1,0 +1,1 @@
+I am a method mapping of festival resources. My singleton instance stores textures, while my class is responsible for looking up the right resource or storing new ones.

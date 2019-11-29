@@ -1,0 +1,1 @@
+I am the manager of all christmas decorations for Squeak. My instance is responsible for answering forwarded requests from various Squeak components. My class watches the calendar and turns decorations on and off at the right time.

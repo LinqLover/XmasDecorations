@@ -1,0 +1,1 @@
+I am a null object for XmasDecorations. I am installed if decorations are turned off.

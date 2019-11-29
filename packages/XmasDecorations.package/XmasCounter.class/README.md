@@ -1,0 +1,1 @@
+I am a simple limited counter that is configurable in terms of target and speed.

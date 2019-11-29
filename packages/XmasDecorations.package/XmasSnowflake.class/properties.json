@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "TXmasTopMorph classTrait",
 	"classvars" : [
 		"RandomGenerator" ],
-	"commentStamp" : "ct 11/17/2019 12:21",
+	"commentStamp" : "ct 11/29/2019 15:32",
 	"instvars" : [
 		"speed",
 		"opacity",
