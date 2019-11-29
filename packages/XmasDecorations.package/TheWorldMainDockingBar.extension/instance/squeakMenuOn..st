@@ -5,9 +5,9 @@ squeakMenuOn: aDockingBar
 	aDockingBar addItem: [ :item |
 		item
 			contents: '';
-			icon: (MenuIcons squeakLogoIcon "dyed:
-				(self userInterfaceTheme logoColor ifNil: [Color black])");
-			selectedIcon: (MenuIcons squeakLogoIcon dyed:
+			icon: (MenuIcons squeakLogoIconColorized:
+				(self userInterfaceTheme logoColor ifNil: [Color black]));
+			selectedIcon: (MenuIcons squeakLogoIconColorized:
 				(self userInterfaceTheme selectionLogoColor ifNil: [Color white]));
 			addSubMenu: [ :menu | 
 				self
