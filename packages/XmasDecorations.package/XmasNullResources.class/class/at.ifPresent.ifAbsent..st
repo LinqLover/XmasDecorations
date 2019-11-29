@@ -1,4 +1,4 @@
-as yet unclassified
+lookup
 at: aSymbol ifPresent: aBlock ifAbsent: anotherBlock
 
 	^ anotherBlock value
