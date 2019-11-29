@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"withImages:" : "ct 11/29/2019 19:53" },
+	"instance" : {
+		"addImage:" : "ct 11/29/2019 19:41",
+		"addNestedYellowButtonItemsTo:event:" : "ct 11/29/2019 20:24",
+		"buildYellowButtonMenu:" : "ct 11/29/2019 20:23",
+		"changeSlideshowImages" : "ct 11/29/2019 19:53",
+		"images" : "ct 11/29/2019 19:39",
+		"images:" : "ct 11/29/2019 19:53",
+		"initialize" : "ct 11/29/2019 20:12",
+		"install" : "ct 11/29/2019 20:13",
+		"intoWorld:" : "ct 11/29/2019 20:13",
+		"mustBeBackmost" : "ct 11/29/2019 19:13",
+		"ownerChanged" : "ct 11/29/2019 18:44",
+		"removeImage:" : "ct 11/29/2019 19:41",
+		"rescaleIntoArea:" : "ct 11/29/2019 20:11",
+		"resetImageMorph" : "ct 11/29/2019 20:11",
+		"resistsRemoval" : "ct 11/29/2019 20:16",
+		"step" : "ct 11/29/2019 19:38",
+		"stepTime" : "ct 11/29/2019 20:15",
+		"switchImage" : "ct 11/29/2019 20:11" } }

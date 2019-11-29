@@ -1,0 +1,17 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		"allImages" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 11/29/2019 22:04",
+	"instvars" : [
+		"scalingProcess",
+		"images",
+		"currentImage",
+		"random" ],
+	"name" : "XmasBackgroundMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

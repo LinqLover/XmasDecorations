@@ -1,4 +1,5 @@
 transformations
 isDarkSelector: aSymbol
 
-	^ aSymbol isUnary and: [aSymbol beginsWith: 'dark']
+	^ aSymbol isUnary and: [
+		aSymbol beginsWith: 'dark']

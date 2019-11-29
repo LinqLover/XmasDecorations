@@ -1,0 +1,1 @@
+I display a slideshow of background images. I am the backmost morph in a world.

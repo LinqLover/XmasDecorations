@@ -3,6 +3,7 @@ uninstall
 
 	Beeper clearDefault.
 	self class current: nil.
+	backgroundMorph abandon.
 	
 	self refreshUi.
 	
