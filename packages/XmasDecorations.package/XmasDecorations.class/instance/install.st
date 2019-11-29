@@ -6,8 +6,8 @@ install
 	
 	self refreshUi.
 	
-	backgroundMorph := (XmasBackgroundMorph withImages:
-		self xmasResources backgroundImages) install.
+	backgroundMorph := (XmasBackgroundMorph withImports:
+		self xmasResources backgroundImageImports) install.
 	self blizzard: (XmasBlizzard newFor: self currentWorld).
 	self blizzard
 		setUp;

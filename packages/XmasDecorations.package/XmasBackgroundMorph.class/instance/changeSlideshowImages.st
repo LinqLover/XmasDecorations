@@ -1,4 +1,4 @@
 slideshow
 changeSlideshowImages
 
-	self images inspect.
+	self imports inspect.

@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "ct 11/29/2019 22:04",
 	"instvars" : [
-		"scalingProcess",
-		"images",
+		"imports",
+		"random",
 		"currentImage",
-		"random" ],
+		"scalingProcess" ],
 	"name" : "XmasBackgroundMorph",
 	"pools" : [
 		 ],

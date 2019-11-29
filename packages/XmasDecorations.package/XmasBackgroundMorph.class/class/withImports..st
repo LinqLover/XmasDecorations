@@ -1,6 +1,6 @@
 instance creation
-withImages: images
+withImports: imports
 
 	^ self new
-		images: images;
+		imports: imports;
 		yourself
