@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+	#loading : [
+		SCIMetacelloLoadSpec {
+			#baseline : 'XmasDecorations',
+			#platforms : [ #squeak ],
+			#directory : 'packages',
+			#load : [ #tests ]
+		}
+	],
+	#testing : {
+		#coverage : {
+			#packages : [ 'XmasDecorations' ],
+		}
+	}
+}
