@@ -2,19 +2,18 @@ drawing
 savePatchFrom: aCanvas 
 	"Save the part of the given canvas under the receiver as a Form and return its bounding rectangle."
 
-	| damageRect bounds savedPatch |
-	damageRect := bounds := self fullBounds.
+	| damageRect myBounds savedPatch |
+	damageRect := myBounds := self fullBounds.
 	savedPatch := self valueOfProperty: #savedPatch.
 	savedPatch ifNotNil: [
-			damageRect := bounds merge: (savedPatch offset extent: savedPatch extent)].
-	(savedPatch isNil or: [savedPatch extent ~= bounds extent]) 
+			damageRect := myBounds merge: (savedPatch offset extent: savedPatch extent)].
+	(savedPatch isNil or: [savedPatch extent ~= myBounds extent]) 
 		ifTrue: 
 			["allocate new patch form if needed"
-			savedPatch := aCanvas form allocateForm: bounds extent.
+			savedPatch := aCanvas form allocateForm: myBounds extent.
 			self setProperty: #savedPatch toValue: savedPatch].
 	aCanvas
-		contentsOfArea: (bounds translateBy: aCanvas origin)
+		contentsOfArea: (myBounds translateBy: aCanvas origin)
 		into: savedPatch.
-	savedPatch offset: bounds topLeft.
-	Transcript showln: damageRect.
+	savedPatch offset: myBounds topLeft.
 	^damageRect
