@@ -9,7 +9,7 @@ step
 	
 	counter := counter + (self speed / 5000).
 	self isHighPerformance ifTrue: [
-		self scale: 1 + (counter cos / 8)].
+		self scale: 0.9 + (counter cos / 8)].
 	self floatCenter: self floatCenter +
 		((counter cos * self horizontalSign * self speed / 40)
 			@ (counter sin / 40 + (self speed / 30))).
