@@ -1,11 +1,7 @@
 toolbuilder
 buildContentsWith: aBuilder
 
-	^ aBuilder pluggableMultiColumnListSpec new
+	^ aBuilder pluggableTextSpec new
 		model: self;
-		name: 'Credits';
-		list: #creditsListColumns;
-		getIndex: #creditsListIndex;
-		setIndex: #creditsListIndex:;
-		doubleClick: #browseSelectedResource;
+		getText: #contents;
 		yourself

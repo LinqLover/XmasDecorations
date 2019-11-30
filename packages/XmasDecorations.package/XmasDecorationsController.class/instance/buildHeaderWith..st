@@ -1,7 +1,7 @@
 toolbuilder
 buildHeaderWith: aBuilder
 
-	^ aBuilder pluggableTextSpec new
+	^ aBuilder pluggablePanelSpec new
 		model: self;
-		getText: #headerContents;
+		children: #headerChildren;
 		yourself
