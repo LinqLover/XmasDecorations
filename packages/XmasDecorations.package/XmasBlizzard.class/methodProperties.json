@@ -14,8 +14,8 @@
 		"initialize" : "ct 11/27/2019 11:03",
 		"intensitySpeedExponent" : "ct 11/27/2019 11:11",
 		"intensitySpeedRange" : "ct 11/27/2019 11:19",
-		"isHighPerformance" : "ct 11/27/2019 10:21",
-		"maximumSnowflakesPerSecond" : "ct 11/27/2019 09:14",
+		"isHighPerformance" : "ct 11/30/2019 16:29",
+		"maximumSnowflakesPerSecond" : "ct 11/29/2019 23:17",
 		"owner:" : "ct 11/26/2019 09:28",
 		"ownerChanged" : "ct 11/26/2019 09:27",
 		"setUp" : "ct 11/27/2019 11:20",
@@ -25,6 +25,6 @@
 		"step" : "ct 11/29/2019 12:06",
 		"stepAppearance" : "ct 11/27/2019 11:20",
 		"stepNewIntensity" : "ct 11/27/2019 11:18",
-		"stepTime" : "ct 11/17/2019 17:05",
+		"stepTime" : "ct 11/29/2019 22:24",
 		"stopAppearanceStepping" : "ct 11/27/2019 09:19",
 		"stopStepping" : "ct 11/26/2019 09:35" } }

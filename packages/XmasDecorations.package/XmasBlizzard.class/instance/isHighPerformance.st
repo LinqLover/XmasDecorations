@@ -1,4 +1,4 @@
 accessing
 isHighPerformance
 
-	^ self submorphCount <= 5
+	^ true

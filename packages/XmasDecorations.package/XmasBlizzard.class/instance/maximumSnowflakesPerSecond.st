@@ -1,4 +1,4 @@
 accessing - constants
 maximumSnowflakesPerSecond
 
-	^ 15
+	^ 85

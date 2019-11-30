@@ -9,4 +9,4 @@ randomInitialize
 				@ self placementOffset y negated;
 		opacity: (RandomGenerator nextBetween: 0.03 and: 0.37);
 		horizontalSign: (RandomGenerator next - 0.5) sign;
-		speed: (RandomGenerator nextBetween: 30 and: 150).
+		speed: (RandomGenerator nextBetween: 30 and: "150"225).

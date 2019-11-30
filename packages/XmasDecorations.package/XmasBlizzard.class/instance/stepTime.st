@@ -1,4 +1,4 @@
 stepping
 stepTime
 
-	^ 50
+	^ 25
