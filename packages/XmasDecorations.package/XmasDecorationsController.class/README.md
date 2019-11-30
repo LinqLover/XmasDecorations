@@ -1,0 +1,1 @@
+I provide a simple UI for controlling XmasDecorations.
