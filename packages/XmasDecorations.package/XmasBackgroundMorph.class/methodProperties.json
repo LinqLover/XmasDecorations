@@ -2,7 +2,7 @@
 	"class" : {
 		"withImports:" : "ct 11/29/2019 23:25" },
 	"instance" : {
-		"addNestedYellowButtonItemsTo:event:" : "ct 11/29/2019 20:24",
+		"addNestedYellowButtonItemsTo:event:" : "ct 11/30/2019 20:42",
 		"basicResetImageMorph" : "ct 11/29/2019 23:32",
 		"buildYellowButtonMenu:" : "ct 11/29/2019 20:23",
 		"changeSlideshowImages" : "ct 11/29/2019 23:26",
@@ -19,4 +19,5 @@
 		"resistsRemoval" : "ct 11/29/2019 20:16",
 		"step" : "ct 11/29/2019 19:38",
 		"stepTime" : "ct 11/29/2019 20:15",
-		"switchImage" : "ct 11/29/2019 23:26" } }
+		"switchImage" : "ct 11/29/2019 23:26",
+		"toggleStepping" : "ct 11/30/2019 20:43" } }
