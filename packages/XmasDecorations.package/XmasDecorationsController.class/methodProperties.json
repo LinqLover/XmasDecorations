@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"open" : "ct 11/30/2019 01:32" },
+		"initialize" : "ct 11/30/2019 03:56",
+		"open" : "ct 11/30/2019 01:32",
+		"registerInWorldMenu" : "ct 11/30/2019 03:56" },
 	"instance" : {
 		"applyUserInterfaceTheme" : "ct 11/30/2019 03:57",
 		"areDecorationsActive" : "ct 11/30/2019 02:32",
