@@ -1,4 +1,5 @@
 installation
 install
 
-	XmasResources install.
+	Project current uiManager informUser: 'Installing XmasDecorations ...' during: [
+		XmasResources install].
