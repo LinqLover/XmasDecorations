@@ -1,4 +1,5 @@
 stepping
 stopStepping
 
-	self currentWorld stopStepping: self
+	self currentWorld stopStepping: self.
+	self changed: #stepping.

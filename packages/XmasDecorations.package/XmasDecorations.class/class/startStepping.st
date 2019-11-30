@@ -7,3 +7,4 @@ startStepping
 		selector: #step
 		arguments: nil
 		stepTime: 12 minutes asMilliSeconds.
+	self changed: #stepping.

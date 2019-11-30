@@ -1,0 +1,15 @@
+{
+	"category" : "XmasDecorations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"creditsListIndex",
+		"creditsList" ],
+	"name" : "XmasDecorationsController",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }
