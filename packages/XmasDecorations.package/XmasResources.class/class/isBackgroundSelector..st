@@ -1,4 +1,4 @@
-testing
+accessing - selectors
 isBackgroundSelector: aSymbol
 
 	^ aSymbol isUnary and: [

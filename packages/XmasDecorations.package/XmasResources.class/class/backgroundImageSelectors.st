@@ -1,6 +1,5 @@
-accessing
+accessing - selectors
 backgroundImageSelectors
 
-	^ (self allSelectorsBelow: thisContext receiver superclass)
-		select: [:selector |
-			self instance isBackgroundSelector: selector]
+	^ self resourceSelectors select: [:selector |
+		self isBackgroundSelector: selector]

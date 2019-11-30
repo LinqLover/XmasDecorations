@@ -1,4 +1,4 @@
-testing
+accessing - selectors
 isDarkSelector: aSymbol
 
 	^ aSymbol isUnary and: [
