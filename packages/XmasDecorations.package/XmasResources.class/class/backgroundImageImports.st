@@ -8,7 +8,7 @@ backgroundImageImports
 		imports
 			importImage: (self perform: selector)
 			named: selector].
-	(cache keys includesAllOf: selectors)
+	((cache ifNotNil: #keys ifNil: #()) includesAllOf: selectors)
 		ifTrue: [
 			selectors do: importBlock ]
 		ifFalse: [
