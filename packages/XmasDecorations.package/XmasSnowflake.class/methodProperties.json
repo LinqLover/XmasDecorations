@@ -20,6 +20,7 @@
 		"initialize" : "ct 11/29/2019 12:04",
 		"initializeAppearance" : "ct 11/25/2019 15:17",
 		"intoWorld:" : "ct 11/28/2019 16:08",
+		"isFirework" : "ct 11/30/2019 16:44",
 		"isHighPerformance" : "ct 11/27/2019 09:19",
 		"opacity" : "ct 11/17/2019 14:45",
 		"opacity:" : "ct 11/17/2019 16:19",
@@ -33,5 +34,5 @@
 		"speed" : "ct 11/17/2019 14:46",
 		"speed:" : "ct 11/17/2019 14:46",
 		"step" : "ct 11/30/2019 16:42",
-		"stepAppearance" : "ct 11/26/2019 08:48",
+		"stepAppearance" : "ct 11/30/2019 16:49",
 		"wantsSteps" : "ct 11/29/2019 11:09" } }

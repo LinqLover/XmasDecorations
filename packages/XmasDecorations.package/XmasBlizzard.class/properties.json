@@ -9,7 +9,8 @@
 		"random",
 		"intensityCounter",
 		"dbg_nextInsensityAlarmTime",
-		"hasChanged" ],
+		"hasChanged",
+		"isFireworks" ],
 	"name" : "XmasBlizzard",
 	"pools" : [
 		 ],
