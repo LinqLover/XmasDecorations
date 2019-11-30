@@ -7,7 +7,7 @@ step
 		ifTrue: [^ self].
 	(self isActive xor: isChristmasTime)
 		ifTrue: [
-			self isInstalled
+			self isActive
 				ifFalse: [self decorate]
 				ifTrue: [self undecorate]].
 	latestIsChristmasTime := isChristmasTime.
