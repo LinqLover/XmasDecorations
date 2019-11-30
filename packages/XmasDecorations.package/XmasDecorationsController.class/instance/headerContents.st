@@ -2,7 +2,7 @@ strings
 headerContents
 
 	^ ((((
-'<b>Welcome to XmasDecorations! To quickly start, just press "{1}".</b> We think that xmas decorations work best with a dark theme, but however, they are tuned to support all colors of themes.
+'<b>Welcome to XmasDecorations! To quickly start, just press "{1}" if decorations are not yet visible.</b> We think that xmas decorations work best with a dark theme, but however, they are tuned to support all colors of themes.
 
 \{1\} This project was created from Squeak fanatics for Squeak fanatics. Any contributions, such as feature requests, bug reports, or pull requests are highly welcome! The pane below lists all artistic contributors. To contribute, just visit our repo: <a href="{2}">{2}</a>
 
