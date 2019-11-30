@@ -4,6 +4,7 @@ testDecoration
 
 	self shouldnt: [ XmasDecorations decorate ] raise: UnhandledError.
 	self assertWorldHealth.
+	Transcript showln: PluggableTextMorph new fillStyle.
 	self assert: [ self checkDecorated ].
 	self shouldnt: [ XmasDecorations undecorate ] raise: UnhandledError.
 	self assertWorldHealth.
