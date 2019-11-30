@@ -1,0 +1,4 @@
+strings
+windowTitle
+
+	^ 'XmasDecorations'
