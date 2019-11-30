@@ -2,7 +2,7 @@ strings
 contents
 
 	^ ((((
-'<b>Welcome to XmasDecorations!</b> Decorations are turned on and off automatically according to your system date. To override this behavior, you can use the buttons below. XmasDecorations supports all kind of themes, light themes as well as dark ones.
+'<b>Welcome to XmasDecorations!</b> Decorations are turned on and off automatically according to your system date. To override this behavior, you can use the buttons below. XmasDecorations supports all kind of themes, light themes as well as dark ones. We wish you a merry christmas and a much fun with Squeak!
 
 This project was created from Squeak fanatics for Squeak fanatics. Any contributions, such as feature requests, bug reports, or pull requests are highly welcome! The pane below lists all artistic contributors. To contribute, just <a href="{1}">visit our repo.</a>
 
