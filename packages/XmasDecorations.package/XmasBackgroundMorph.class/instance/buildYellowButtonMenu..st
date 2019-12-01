@@ -1,6 +1,6 @@
 menus
 buildYellowButtonMenu: aHand 
-	"build the morph menu for the yellow button"
+	"Hacked to show a minimal command set via world menu"
 	| menu |
 	menu := MenuMorph new defaultTarget: self.
 	super addNestedYellowButtonItemsTo: menu event: ActiveEvent.
