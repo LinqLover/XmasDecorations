@@ -1,6 +1,7 @@
 # XmasDecorations [![Build Status](https://travis-ci.com/LinqLover/XmasDecorations.svg?branch=master)](https://travis-ci.com/LinqLover/XmasDecorations)
 
 Installation:
+
 0. Update your Squeak image (Trunk required)
 1. Ensure Metacello is installed (`Installer ensureRecentMetacello`).
 2. Open a workspace and do:
