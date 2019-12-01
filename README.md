@@ -8,7 +8,7 @@ Installation:
  ```smalltalk
 Metacello new
 	baseline: 'XmasDecorations';
-	repository: 'github://LinqLover/XmasDecorations/packages:release';
+	repository: 'github://LinqLover/XmasDecorations:release/packages';
 	load.
  ```
 3. When it's Christmas time, decorations will appear automatically! Otherwise, open the XmasDecorations UI from the docking bar and turn them on manually.
