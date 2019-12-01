@@ -6,7 +6,6 @@
 		"Current" ],
 	"commentStamp" : "ct 11/29/2019 15:42",
 	"instvars" : [
-		"resources",
 		"blizzard",
 		"backgroundMorph" ],
 	"name" : "XmasDecorations",

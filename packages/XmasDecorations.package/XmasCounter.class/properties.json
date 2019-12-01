@@ -9,9 +9,9 @@
 		"value",
 		"target",
 		"speed",
-		"hasReachedTarget",
+		"targetReachedBlock",
 		"deltaSign",
-		"targetReachedBlock" ],
+		"hasReachedTarget" ],
 	"name" : "XmasCounter",
 	"pools" : [
 		 ],
