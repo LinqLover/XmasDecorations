@@ -15,7 +15,7 @@ Metacello new
 
 Have a lot of fun with Squeak and a merry christmas!
 
-<img align="right" src="https://github.com/LinqLover/XmasDecorations/blob/master/screenshot.png" />
+<img align="right" src="https://github.com/LinqLover/XmasDecorations/blob/master/screenshot.png" /><br/>
 
 ## Credits
 All credits information can be viewed by opening the XmasDecorations UI from the docking bar menu. Thanks to all contributors!
