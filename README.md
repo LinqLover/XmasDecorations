@@ -14,3 +14,5 @@ Metacello new
 3. When it's Christmas time, decorations will appear automatically! Otherwise, open the XmasDecorations UI from the docking bar and turn them on manually.
 
 Have a lot of fun with Squeak and a merry christmas!
+
+<img align="right" src="https://github.com/LinqLover/XmasDecorations/blob/master/screenshot.png" />
