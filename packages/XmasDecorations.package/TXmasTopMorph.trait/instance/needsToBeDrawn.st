@@ -1,4 +1,4 @@
 drawing
 needsToBeDrawn
 
-	^ true
+	^ self visible
