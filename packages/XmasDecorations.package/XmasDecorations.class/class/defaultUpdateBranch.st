@@ -1,4 +1,4 @@
 product updates
 defaultUpdateBranch
 
-	^ #releases
+	^ #release

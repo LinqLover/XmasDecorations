@@ -5,5 +5,5 @@ installUpdatesFromBranch: aBranch
 		ifFalse: [^ false].
 	Metacello new
 		baseline: 'XmasDecorations';
-		repository: ('github://LinqLover/XmasDecorations:{1}/packages' format: aBranch);
+		repository: ('github://LinqLover/XmasDecorations:{1}/packages' format: {aBranch});
 		load.
