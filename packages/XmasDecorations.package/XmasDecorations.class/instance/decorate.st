@@ -6,7 +6,5 @@ decorate
 	
 	self refreshUi.
 	
-	backgroundMorph := (XmasBackgroundMorph withImports:
-		self xmasResources backgroundImageImports) install.
-	self blizzard: (XmasBlizzard newFor: self currentWorld).
-	self blizzard setUp; start.
+	self decorateBackground.
+	self decorateBlizzard.

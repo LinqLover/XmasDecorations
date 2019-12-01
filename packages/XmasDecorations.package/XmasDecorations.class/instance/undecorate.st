@@ -3,8 +3,8 @@ undecorate
 
 	Beeper clearDefault.
 	self class current: nil.
-	backgroundMorph abandon.
+	
+	self backgroundMorph ifNotNil: #abandon.
+	self blizzard ifNotNil: #abandon.
 	
 	self refreshUi.
-	
-	self blizzard ifNotNil: #abandon.
