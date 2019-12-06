@@ -1,0 +1,4 @@
+slideshow
+isSlideshowMode
+
+	^ isSlideshowMode

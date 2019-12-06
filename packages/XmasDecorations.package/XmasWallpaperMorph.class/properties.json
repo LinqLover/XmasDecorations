@@ -9,8 +9,10 @@
 		"imports",
 		"random",
 		"currentImage",
-		"scalingProcess" ],
-	"name" : "XmasBackgroundMorph",
+		"scalingProcess",
+		"isSlideshowMode",
+		"morphCache" ],
+	"name" : "XmasWallpaperMorph",
 	"pools" : [
 		 ],
 	"super" : "Morph",
