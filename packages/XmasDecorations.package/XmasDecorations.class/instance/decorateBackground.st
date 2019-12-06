@@ -1,5 +1,5 @@
 installation
 decorateBackground
 
-	self backgroundMorph: (XmasBackgroundMorph withImports:
+	self wallpaper: (XmasWallpaperMorph withImports:
 		self xmasResources backgroundImageImports) install.

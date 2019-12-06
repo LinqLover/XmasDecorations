@@ -20,6 +20,8 @@ displayWorld: aWorld submorphs: submorphs
 	handDamageRects := handsToDraw collect: [:h | h savePatchFrom: canvas].
 	allDamage := allDamage, handDamageRects.
 	allMorphsToDraw := handsToDraw, topMorphsToDraw.
+	self flag: #ct "This two-phase approach works for the moment; however, a better solution should select all morphs-to-draw and save their patch during one single scan.
+	This would also allow displaying the world correctly if only a part of top morphs has changed".
 	
 	allMorphsToDraw reverseDo: [:m | canvas fullDrawMorph: m].
 
