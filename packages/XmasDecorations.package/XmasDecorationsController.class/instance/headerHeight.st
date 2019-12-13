@@ -1,4 +1,4 @@
 toolbuilder
 headerHeight
 
-	^ 42
+	^ 42 * RealEstateAgent scaleFactor
