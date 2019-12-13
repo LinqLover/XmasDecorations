@@ -1,5 +1,6 @@
 *XmasDecorations-windows
 xmasShouldCoverRoof
 
-	^ (self xmasResources includesKey: #formRoof)
+	^ self xmasDecorations roofsActivated
+		and: [self xmasResources includesKey: #formRoof]
 		and: [self respondsTo: #xmasRoofBounds]

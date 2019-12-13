@@ -5,4 +5,4 @@ xmasDrawRoofOn: aCanvas
 		ifFalse: [^ self].
 	aCanvas
 		drawImage: self xmasRoofForm
-		at: self topLeft.
+		at: self xmasRoofBounds origin.
