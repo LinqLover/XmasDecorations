@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"BlizzardIntensity" ],
 	"commentStamp" : "ct 11/29/2019 15:44",
 	"instvars" : [
 		"random",

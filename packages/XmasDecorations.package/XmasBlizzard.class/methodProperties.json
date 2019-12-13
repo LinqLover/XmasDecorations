@@ -1,5 +1,7 @@
 {
 	"class" : {
+		"blizzardIntensity" : "ct 12/13/2019 22:05",
+		"blizzardIntensity:" : "ct 12/13/2019 22:05",
 		"newFor:" : "ct 11/17/2019 15:42" },
 	"instance" : {
 		"abandon" : "ct 11/29/2019 10:49",
@@ -16,7 +18,7 @@
 		"intensitySpeedRange" : "ct 11/27/2019 11:19",
 		"isFireworks" : "ct 11/30/2019 16:44",
 		"isHighPerformance" : "ct 11/30/2019 16:29",
-		"maximumSnowflakesPerSecond" : "ct 12/13/2019 21:47",
+		"maximumSnowflakesPerSecond" : "ct 12/13/2019 22:04",
 		"owner:" : "ct 11/26/2019 09:28",
 		"setUp" : "ct 11/27/2019 11:20",
 		"snowflakesPerSecond" : "ct 11/30/2019 19:48",
