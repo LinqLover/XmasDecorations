@@ -1,7 +1,13 @@
 # XmasDecorations [![Build Status](https://travis-ci.com/LinqLover/XmasDecorations.svg?branch=master)](https://travis-ci.com/LinqLover/XmasDecorations)
 
-Installation:
+## Features (a selection)
+⭐ a Christmas theme (compatible with your preferred UI theme, supports both light & dark mode)  
+⭐ a new full-screen WallpaperMorph  
+⭐ dynamic snow blizzards (with performance optimization)  
+⭐ automatic Christmas Detection™  
+⭐ and further, more or less hidden features!
 
+## Installation
 0. Update your Squeak image (Trunk required)
 1. Ensure Metacello is installed (`Installer ensureRecentMetacello`).
 2. Open a workspace and do:
