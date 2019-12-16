@@ -1,4 +1,4 @@
-*XmasDecorations-overriding
+*XmasDecorations-override
 createTitle: aString 
 	"Mimick behavior of MenuMorph title creation."
 	

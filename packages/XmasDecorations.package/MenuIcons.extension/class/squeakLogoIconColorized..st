@@ -1,4 +1,4 @@
-*XmasDecorations-overriding
+*XmasDecorations-override
 squeakLogoIconColorized: aColor
 
 	| theMouse |

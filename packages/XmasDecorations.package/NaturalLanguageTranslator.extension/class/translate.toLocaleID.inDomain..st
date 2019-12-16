@@ -1,4 +1,4 @@
-*XmasDecorations-overriding-translation
+*XmasDecorations-override
 translate: aString toLocaleID: localeID inDomain: aDomainName
 	self xmasDecorations tryTranslate: aString ifFound: [:result |
 		^ result].

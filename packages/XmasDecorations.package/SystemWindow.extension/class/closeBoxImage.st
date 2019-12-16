@@ -1,4 +1,4 @@
-*XmasDecorations-overriding
+*XmasDecorations-override
 closeBoxImage
 
 	self xmasResources iconAt: #closeBox ifPresent: [:icon | ^ icon].

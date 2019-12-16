@@ -1,4 +1,4 @@
-*XmasDecorations-overriding
+*XmasDecorations-override
 createBox: aForm
 	"create a button with a form to be used in the label area"
 	

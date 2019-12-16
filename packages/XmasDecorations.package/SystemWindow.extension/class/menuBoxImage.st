@@ -1,4 +1,4 @@
-*XmasDecorations-overriding
+*XmasDecorations-override
 menuBoxImage
 
 		self xmasResources iconAt: #menuBox ifPresent: [:icon | ^ icon].
