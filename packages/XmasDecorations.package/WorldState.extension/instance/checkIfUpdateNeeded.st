@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-update cycle-override
 checkIfUpdateNeeded
 
 	^ damageRecorder updateIsNeeded or: [

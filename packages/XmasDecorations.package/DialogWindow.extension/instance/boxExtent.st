@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-accessing-override
 boxExtent
 
 	^ SystemWindow boxExtent

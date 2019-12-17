@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-initializing-override
 expandBoxImage
 
 	self xmasResources iconAt: #expandBox ifPresent: [:icon | ^ icon].

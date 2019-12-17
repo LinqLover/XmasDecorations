@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-construction-override
 squeakMenuOn: aDockingBar 
 	"Private - fill the given docking bar"
 	

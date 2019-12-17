@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-update cycle-override
 displayWorld: aWorld submorphs: submorphs
 	"Update this world's display."
 

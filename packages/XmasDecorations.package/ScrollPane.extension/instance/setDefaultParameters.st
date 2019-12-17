@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-initialization-override
 setDefaultParameters
 	"change the receiver's appareance parameters"
 

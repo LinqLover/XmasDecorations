@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-initializing-override
 collapseBoxImage
 
 		self xmasResources iconAt: #collapseBox ifPresent: [:icon | ^ icon].

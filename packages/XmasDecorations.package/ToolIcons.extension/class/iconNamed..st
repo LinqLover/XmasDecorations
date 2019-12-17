@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-accessing-override
 iconNamed: aSymbol
 
 	self xmasResources

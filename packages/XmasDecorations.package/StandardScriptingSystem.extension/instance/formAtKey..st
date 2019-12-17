@@ -1,4 +1,4 @@
-*XmasDecorations-override
+*XmasDecorations-form dictionary-override
 formAtKey: aString
 	"Answer the form saved under the given key"
 
