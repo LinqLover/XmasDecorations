@@ -9,7 +9,11 @@ SmalltalkCISpec {
 	],
 	#testing : {
 		#coverage : {
-			#packages : [ 'XmasDecorations' ]
-		}
+			#packages : [ 'XmasDecorations' ],
+			#exclude : {
+				#classes: [ #XmasPackageTest ]
+			}
+		},
+		#classes : [ #XmasPackageTest ]
 	}
 }
