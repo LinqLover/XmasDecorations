@@ -1,0 +1,14 @@
+{
+	"category" : "XmasDecorationsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XmasPackageTest",
+	"pools" : [
+		 ],
+	"super" : "XmasDecorationsTest",
+	"type" : "normal" }
