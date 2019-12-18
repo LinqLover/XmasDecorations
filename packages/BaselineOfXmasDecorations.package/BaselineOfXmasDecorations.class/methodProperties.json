@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"baseline:" : "ct 11/29/2019 13:49",
-		"postLoad" : "ct 12/16/2019 12:20",
+		"postLoad" : "ct 12/18/2019 10:18",
 		"preUnload" : "ct 12/18/2019 10:18",
-		"projectClass" : "ct 11/27/2019 12:37" } }
+		"projectClass" : "ct 11/27/2019 12:37",
+		"registerPreambleOfRemoval" : "ct 12/18/2019 10:19" } }
