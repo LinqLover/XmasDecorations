@@ -1,4 +1,4 @@
-testing
+tests
 testDecoration
 	<timeout: 30 "seconds">
 

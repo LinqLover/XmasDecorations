@@ -1,4 +1,4 @@
-testing
+tests
 testCountIntegers
 
 	counter value: 5; target: 10.
