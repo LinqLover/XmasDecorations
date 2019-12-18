@@ -1,0 +1,4 @@
+scripts
+preUnload
+
+	XmasDecorations undecorate.
