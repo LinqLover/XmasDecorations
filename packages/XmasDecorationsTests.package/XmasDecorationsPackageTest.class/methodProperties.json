@@ -2,4 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
+		"expectedFailures" : "ct 1/18/2020 03:36",
 		"testUnload" : "ct 1/18/2020 03:13" } }
