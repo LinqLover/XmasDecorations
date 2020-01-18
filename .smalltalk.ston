@@ -11,8 +11,8 @@ SmalltalkCISpec {
 		#coverage : {
 			#packages : [ 'XmasDecorations' ]
 		},
-        #exclude : {
-            #classes : [ #XmasDecorationsPackageTest ]
-        }
+		#exclude : {
+			#classes : [ #XmasDecorationsPackageTest ]
+		}
 	}
 }
