@@ -4,9 +4,6 @@
 	"instance" : {
 		"assertWorldHealth" : "ct 11/29/2019 13:10",
 		"checkDecorated" : "ct 11/29/2019 23:59",
-		"isCiServer" : "ct 12/18/2019 09:19",
-		"okToRunCase" : "ct 12/18/2019 09:27",
-		"runCase" : "ct 12/18/2019 09:22",
 		"testDecoration" : "ct 11/30/2019 21:02",
 		"testInstallation" : "ct 12/18/2019 09:21",
 		"testWorldHealth" : "ct 11/29/2019 13:10" } }

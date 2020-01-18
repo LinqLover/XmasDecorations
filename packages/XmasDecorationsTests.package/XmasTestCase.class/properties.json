@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "XmasDecorationsTest",
+	"name" : "XmasTestCase",
 	"pools" : [
 		 ],
-	"super" : "XmasTestCase",
+	"super" : "TestCase",
 	"type" : "normal" }

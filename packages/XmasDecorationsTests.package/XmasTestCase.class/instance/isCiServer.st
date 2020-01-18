@@ -1,4 +1,4 @@
-testing
+running
 isCiServer
 
 	^ Smalltalk globals at: #SmalltalkCI
