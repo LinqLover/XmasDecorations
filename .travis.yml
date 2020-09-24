@@ -6,6 +6,6 @@ os:
 smalltalk:
   - Squeak-Trunk
 
-script:
-  - smalltalkci .smalltalk.ston
-  - smalltalkci unload.smalltalk.ston
+jobs:
+  - script: smalltalkci .smalltalk.ston
+  - script: smalltalkci unload.smalltalk.ston
